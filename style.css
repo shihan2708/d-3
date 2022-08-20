@@ -1,0 +1,79 @@
+img {
+    width: 148%;
+    margin: auto;
+    display: block;
+}
+
+body {
+    width: 60%;
+    margin: auto;
+    margin-top: 2em;
+    padding: 2em;
+    background-image: url("img/chuttersnap-9AqIdzEc9pY-unsplash.jpg");
+    background-position: center;
+    /* background: rebeccapurple; */
+    background-repeat: no-repeat;
+}
+
+p {
+    font-size: 22px;
+    text-align: right;
+    margin-bottom: 2em;
+    /* width: 245px; */
+}
+.portfolio {
+    background: #5e8d3f1a;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    border-radius: 15px;
+    display: flex;
+    box-shadow: 0px 0px 5px 0px #3c3c3c87;
+    align-items: center;
+}
+
+h1 {
+    text-align: right;
+    font-size: 28px;
+    text-transform: uppercase;
+    color: #5e8d3f;
+}
+
+hr {
+    margin-top: 39px;
+    margin-bottom: 0px;
+    width: 74%;
+}
+
+.btn{
+
+/* display: flex; */
+}
+
+.btn-txt {
+    /* padding: 1em; */
+    padding: 1em 3em;
+    background: #5e8d3f;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    text-transform: uppercase;
+    border-radius: 5px;
+}
+
+.btn-txt:hover {
+    color: #000000;
+    background: #95be48c7;
+    transition: 0.3s;
+    box-shadow: 0px 6px 0px #375624;
+}
+
+.col-1{width: 160%;}
+
+
+.col-2{
+	
+/* width: 330px; */
+}
